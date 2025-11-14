@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Criado pelo Borges&Oliveira",
-  description: "Projeto criado com Lasy AI",
+  description: "Projeto criado com estudos",
 };
 
 export default function RootLayout({
